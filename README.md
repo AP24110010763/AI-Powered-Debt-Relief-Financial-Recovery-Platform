@@ -1,0 +1,2 @@
+# AI-Powered-Debt-Relief-Financial-Recovery-Platform
+FinRelief AI is an AI-powered debt management platform that helps borrowers track loans, analyze financial health, predict settlement opportunities, and generate intelligent negotiation strategies and settlement letters using FastAPI, React, SQLite, and Google Gemini AI. It provides secure, scalable, and user-friendly financial recovery assistance.
