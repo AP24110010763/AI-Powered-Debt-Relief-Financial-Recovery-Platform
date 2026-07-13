@@ -95,31 +95,6 @@ Google Gemini AI Services
 
 ---
 
-# 📂 Project Structure
-
-```text
-FinReliefAI/
-│
-├── app/
-│   ├── api/
-│   ├── models/
-│   ├── schemas/
-│   ├── services/
-│   └── utils/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── components/
-│
-├── requirements.txt
-├── finrelief.db
-├── README.md
-└── .env
-```
-
----
-
 # ⚙️ Installation Guide
 
 ## Clone the Repository
