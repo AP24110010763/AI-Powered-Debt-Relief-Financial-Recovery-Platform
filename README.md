@@ -10,7 +10,11 @@ personalized negotiation strategies and lender-ready settlement letters.
 **Email:** sivamanikanta_maddineni@srmap.edu.in
 
 ---
+## Demo Video
 
+Demo Video Link:  
+https://drive.google.com/file/d/1EKiV15gUpaVAnx9wrHeyXnWpwJSkhMgi/view?usp=sharing
+---
 ## Tech Stack
 
 | Layer | Technology |
